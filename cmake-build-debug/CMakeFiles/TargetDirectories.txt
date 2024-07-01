@@ -1,0 +1,3 @@
+C:/Users/Amr AbdEltawab/Desktop/New folder/Banking-System/cmake-build-debug/CMakeFiles/Banking_system_.dir
+C:/Users/Amr AbdEltawab/Desktop/New folder/Banking-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amr AbdEltawab/Desktop/New folder/Banking-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
